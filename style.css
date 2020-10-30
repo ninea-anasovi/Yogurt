@@ -7,3 +7,21 @@ body {
 h1 {
     font-family: 'Abril Fatface', cursive;
 }
+
+.jumbotron {
+    background-color: rgba(255, 166, 0, 0);
+}
+
+.drop-shadow {
+    text-shadow: rgba(0, 0, 0, 0.199) 0px 2px 2px;
+}
+
+.lead {
+    font-size: 2rem;
+    color: white;
+}
+
+.btn-outline-light:hover{
+    background-color: rgba(255, 255, 255, 0.205);
+}
+
